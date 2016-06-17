@@ -1,0 +1,28 @@
+name: AlwaysBeRecruiting
+favicon: null
+layout_spectrum: 0.5551519894506782
+typography_spectrum: 0.488452818011865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8899428355507553
+  lightness: 0.7229133299551904
+  saturation: 0.13887908635661006
+  rhythmicContrast: 0.029300425900146365
+purpose: []
