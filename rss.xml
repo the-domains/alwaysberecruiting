@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[AlwaysBeRecruiting]]></title>
         <description><![CDATA[AlwaysBeRecruiting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alwaysberecruiting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 00:51:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Jun 2016 00:53:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alwaysberecruiting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fc111dc-19a6-4ede-924e-4e6fd921f622.jpg">]]></description>
-            <link>undefined7d686481-b3a2-409f-8473-9befd4f3ed14/index.html</link>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/681301bfca49d3505d25d18f30862988/croprotate.jpg?cropheight=2353&cropwidth=3680&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2fc111dc-19a6-4ede-924e-4e6fd921f622.jpg&x=0&y=0" alt="" title="">]]></description>
+            <link>https://thegrid.ai/alwaysberecruiting/7d686481-b3a2-409f-8473-9befd4f3ed14/index.html</link>
             <guid isPermaLink="false">7d686481-b3a2-409f-8473-9befd4f3ed14</guid>
-            <pubDate>Fri, 17 Jun 2016 00:51:35 GMT</pubDate>
+            <pubDate>Fri, 17 Jun 2016 00:53:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
